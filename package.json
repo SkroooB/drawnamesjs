@@ -8,7 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+  "name": "Mustafa Al Ajmi",
+  "email": "mustafa@socialmaniaom.com"
+}
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.11.2",
